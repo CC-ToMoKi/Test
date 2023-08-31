@@ -5,7 +5,7 @@ baseball
 tennis
 卓球
 ラクロス
-
+カバディ
 
 
 ## Hobby
