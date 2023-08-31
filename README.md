@@ -16,3 +16,4 @@ tennis
 パソコン作業
 YouTubeを見る
 料理
+買い物
