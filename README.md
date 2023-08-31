@@ -24,3 +24,11 @@ tennis
 YouTubeを見る
 料理
 買い物
+
+## Foods
+Apple
+Banana
+Persimmon
+Curry
+Ramen
+
