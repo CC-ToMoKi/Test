@@ -25,11 +25,17 @@ YouTubeを見る
 料理
 買い物
 
-
 ## Drinks
 Cola
 Soda
 Milk
 Tea
 Water
+
+## Foods
+Apple
+Banana
+Persimmon
+Curry
+Ramen
 
